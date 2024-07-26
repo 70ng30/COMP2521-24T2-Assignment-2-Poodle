@@ -1,5 +1,9 @@
 # COMP2521-24T2-Assignment-2-Poodle
-You are Dr. Barktholomeow, the most fearsome hacker in the universe!For follow-up codes, please contact:
+You are Dr. Barktholomeow, the most fearsome hacker in the universe!
+
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/202da413-ec6d-4b81-b5a7-882711e1545d">
+
+For follow-up codes, please contact:
 
 WeChat: SJY329511
 
