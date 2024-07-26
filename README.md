@@ -12,7 +12,7 @@ Task1
 ![task1-2](https://github.com/user-attachments/assets/5601916c-8356-41d2-9da2-7c37ceb5dcf9)
 ![task1-3](https://github.com/user-attachments/assets/6a87fad2-eded-4ee7-98a4-c6c063a4b1e5)
 ![task1-4](https://github.com/user-attachments/assets/2319b1a9-1297-40ab-ac29-1fc5e7d4b7aa)
-![task1-5](https://github.com/user-attachments/assets/70acee83-695d-49e0-a3fa-822a5071904a)
+![task1-5](https://github.com/user-attachments/assets/cf589b66-5933-431e-9040-9e224bf8854b)
 
 Task2
 
